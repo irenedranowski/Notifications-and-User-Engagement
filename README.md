@@ -1,8 +1,8 @@
-# Notifications and User Engagement
-This project explores how notifications influence user engagement by modeling the probability of app opens using logistic regression on a synthetic dataset. It is organized into three components: Notification Impact, Time-of-Day Effects, and A/B Testing Simulation.
+# Case Study: Choice Overload vs Guided Decisions
+This study evaluates how the number and presentation of choices impact user decision-making and conversion outcomes. Specifically, it tests whether reducing visible options and guiding users with curated recommendations improves engagement and business performance.
 
-## Part 1: Notification Impact
-We determine whether notifictions increase the probability of app opens.
+## Part 1: Experiment Design
+A - Full choice set. Users presented with 20 opitons and no guidance. B - Users are shown 3 curated options recommended.
 
 ## Part 2: Time-of-Day Effect
 We analyze whether notification effect varies by time of day.
